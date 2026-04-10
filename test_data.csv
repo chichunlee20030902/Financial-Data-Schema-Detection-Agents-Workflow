@@ -1,0 +1,7 @@
+date,ticker,direction,quantity,price,broker
+2024-01-02,AAPL,BUY,100,185.2,Goldman
+2024-01-02,TSLA,BUY,50,248.5,Morgan
+2024-01-03,AAPL,SELL,30,187.0,Goldman
+2024-01-03,2330.TW,BUY,1000,580.0,CTBC
+2024-01-04,,SELL,20,245.0,Morgan
+2024-01-04,NVDA,BUY,200,not_a_number,Goldman
